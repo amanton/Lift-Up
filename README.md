@@ -6,7 +6,7 @@ Projet Ul - Lift up
 Lift up
 --------
 
-Lift up a été imaginée et conçue pour les personnes avec un léger handicap moteur. Beaucoup de personne ne peuvent pas ou ont du mal à se relever lorsque qu'ils sont assis sur une chaise, et donc pour ces personnes-là, on a voulu créer un prototype de chaise autonome et a l'aspect d'une chaise ordinaire (qui pourrait donc être placé dans les restaurants) pour que ces personnes puissent manger au restaurant sans aide pour se relever.
+__Lift up__ a été imaginée et conçue pour les personnes avec _un léger handicap moteur_. Beaucoup de personne ne peuvent pas ou ont du mal à se relever lorsque qu'ils sont assis sur une chaise, et donc pour ces personnes-là, on a voulu créer un prototype de chaise autonome et a l'aspect d'une chaise ordinaire __qui pourrait donc être placé dans les restaurants__ pour que ces personnes puissent manger au restaurant __sans aide pour se relever__.
 
 Pourquoi somme nous aller vers ce projet ? Ici je vais parler personnellement (Richard) je connais plusieurs personnes qui souffre au niveau des jambes, et ce qui m'a le plus marqué c'est mon grand-père qui aime beaucoup sortir aux restaurent mais depuis quelques années il ne veut plus y aller car il se sent gênez de demander de l'aide pour le relever d'une chaise, comme il existe déjà des siège et fauteuils qui aide à se relever, pourquoi des chaise fine ne peuvent pas le faire aussi ? En partant de cette question, le projet est né et les schémas ont commencé à être imaginé.
 
