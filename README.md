@@ -31,22 +31,20 @@ la premiere fut les pistons, simple, tres robuste mais chère
 la deuxieme éta	is de passez via un moteur et une crémailliére, moins robuste, mais efficace
 
 après avoir choisie de passer par une cremailliere et un moteur nous avons commencer a imaginer les pièces pour le projets
-<lien vers la chaise>
-https://www.ikea.com/fr/fr/p/kritter-chaise-enfant-rouge-80153697/
 
-voici la (chaise<mettre le lien nsur ce mot>)
-<lien vers la chaise>
+
+voici la [chaise](https://www.ikea.com/fr/fr/p/kritter-chaise-enfant-rouge-80153697/)
+
+
 nous vont aussi du modeliser des pièces en 3d pour faire la cremaillière et un support moteur
 nous avons eu plusieurs idée lors de la modélisation
 
-<1er idée 3d>
-https://www.tinkercad.com/things/dY0HXlwu65n
 
-voici les (pièces modeliser pour le premier test<mettre le lien>) qui n'ont même pas étais imprimer
-<lien vers 3d>
-https://www.tinkercad.com/things/2Bs0kqwbqwV
+voici les [pièces modeliser pour le premier test](https://www.tinkercad.com/things/dY0HXlwu65n)
 
-voici les (piece modeliser<mettre le lien>) pour la chaise final
+
+voici les [pièces modeliser](https://www.tinkercad.com/things/2Bs0kqwbqwV)
+
 <lien vers 3d>
 
 lors de l'avancement une partie programmation étais presente.
