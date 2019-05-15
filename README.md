@@ -21,13 +21,9 @@ faire un maquette puis essayer de faire une chaise grandeur nature, ou faire un 
 on est partie pour un prototype fonctionelle, car on a vue les prix des couts pour une grandeur nature. 
 le projets étais donc lancer, nous avons quand même regarder sur le net si des chaise de ce style exister dans le marchée. mais sans grande trouvaille, sauf un produit nous reste en tête 
 
-<foutre un lien vers le site>
-  
-Coussin d'aide à la levée (il faudras faire la presentation du lien etc comme pour la fac)
 
-https://www.tousergo.com/aide-au-transfert/28-coussin-d-aide-a-la-levee-3574590140219.html
+[Coussin d'aide à la levée](https://www.tousergo.com/aide-au-transfert/28-coussin-d-aide-a-la-levee-3574590140219.html)
 
-<foutre un lien vers le site>
 
 comme prévu pratiquement aucune société ne fait de chaise de se style, les société prefaire viser le marché des fauteuille par rapport au chaise
 partant de la nous avions reflechie a 2~3 possibilité de faire monter et descendre une personnes assis sur la chaise, 
