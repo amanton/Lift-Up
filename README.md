@@ -52,5 +52,5 @@ nous avons du programmer de l'arduino (qui est proche du c et du c++), comme nou
 
 [code python Raspberry](https://github.com/DeadMeon/Lift-Up/blob/master/bluetoothGPIO.py)
 
-[pièces modeliser pour le premier test](https://www.tinkercad.com/things/dY0HXlwu65n)
+[code test application android](https://github.com/DeadMeon/Lift-Up/blob/master/Test_Applcation_Android/main/java/com/example/devicelist/MainActivity.java)
 
