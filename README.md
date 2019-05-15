@@ -1,10 +1,10 @@
-# Projet Ul - Chaise
-la chaise
-
+Projet Ul - Lift up
+====================
 
 [Presentations slide](https://docs.google.com/presentation/d/1F90I4jqLM0xJeXBUU_vE5x2pX4bnX4WyPgPFGB-84LE/edit?usp=sharing)
 
 Lift up
+--------
 
 Lift up a été imaginée et conçue pour les personnes avec un leger handicap moteur. Beaucoup de personne ne peuvent pas ou on du mal a se relever lorsque qu'il sont assis sur une chaise, et donc pour ces personnes la on a voulu crée un prototype de chaise autonome et a l'aspect d'un chaise ordinaire (qui pourrais donc être placer dans les restaurants) pour que ces personnes puissent manger au restaurant sans aide pour se relever
 
