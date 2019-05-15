@@ -23,19 +23,36 @@ le projets étais donc lancer, nous avons quand même regarder sur le net si des
 
 <foutre un lien vers le site>
   
-https://www.tousergo.com/aide-au-transfert/28-coussin-d-aide-a-la-levee-3574590140219.html(Coussin d'aide à la levée)
+Coussin d'aide à la levée (il faudras faire la presentation du lien etc comme pour la fac)
+
+https://www.tousergo.com/aide-au-transfert/28-coussin-d-aide-a-la-levee-3574590140219.html
 
 <foutre un lien vers le site>
 
 comme prévu pratiquement aucune société ne fait de chaise de se style, les société prefaire viser le marché des fauteuille par rapport au chaise
-partant de la nous avions reflechie a 2 possibilitées de faire monter et descendre une personnes assis sur la chaise,  
-la premiere fut les pistons, simple, tres robuste mais chère. 
+partant de la nous avions reflechie a 2~3 possibilité de faire monter et descendre une personnes assis sur la chaise, 
+la premiere fut les pistons, simple, tres robuste mais chère
 la deuxieme éta	is de passez via un moteur et une crémailliére, moins robuste, mais efficace
 
 après avoir choisie de passer par une cremailliere et un moteur nous avons commencer a imaginer les pièces pour le projets
 <lien vers la chaise>
 https://www.ikea.com/fr/fr/p/kritter-chaise-enfant-rouge-80153697/
 
-voici la (chaise<mettre le lien sur ce mot>) que nous avons utilisé
+voici la (chaise<mettre le lien nsur ce mot>)
 <lien vers la chaise>
+nous vont aussi du modeliser des pièces en 3d pour faire la cremaillière et un support moteur
+nous avons eu plusieurs idée lors de la modélisation
+
+<1er idée 3d>
+https://www.tinkercad.com/things/dY0HXlwu65n
+
+voici les (pièces modeliser pour le premier test<mettre le lien>) qui n'ont même pas étais imprimer
+<lien vers 3d>
+https://www.tinkercad.com/things/2Bs0kqwbqwV
+
+voici les (piece modeliser<mettre le lien>) pour la chaise final
+<lien vers 3d>
+
+lors de l'avancement une partie programmation étais presente.
+nous avons du programmer de l'arduino (qui est proche du c et du c++), comme nous ne somme pas expert en arduino, nous avons commencer a regarder 
 
