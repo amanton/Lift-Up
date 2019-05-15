@@ -32,3 +32,10 @@ partant de la nous avions reflechie a 2 possibilitées de faire monter et descen
 la premiere fut les pistons, simple, tres robuste mais chère. 
 la deuxieme éta	is de passez via un moteur et une crémailliére, moins robuste, mais efficace
 
+après avoir choisie de passer par une cremailliere et un moteur nous avons commencer a imaginer les pièces pour le projets
+<lien vers la chaise>
+https://www.ikea.com/fr/fr/p/kritter-chaise-enfant-rouge-80153697/
+
+voici la (chaise<mettre le lien sur ce mot>) que nous avons utilisé
+<lien vers la chaise>
+
