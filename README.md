@@ -45,8 +45,12 @@ voici les [pièces modeliser pour le premier test](https://www.tinkercad.com/thi
 
 voici les [pièces modeliser](https://www.tinkercad.com/things/2Bs0kqwbqwV)
 
-<lien vers 3d>
-
 lors de l'avancement une partie programmation étais presente.
 nous avons du programmer de l'arduino (qui est proche du c et du c++), comme nous ne somme pas expert en arduino, nous avons commencer a regarder 
+
+[pièces modeliser pour le premier test](https://www.tinkercad.com/things/dY0HXlwu65n)
+
+[pièces modeliser pour le premier test](https://www.tinkercad.com/things/dY0HXlwu65n)
+
+[pièces modeliser pour le premier test](https://www.tinkercad.com/things/dY0HXlwu65n)
 
