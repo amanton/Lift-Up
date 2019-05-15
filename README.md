@@ -32,4 +32,5 @@ https://www.tousergo.com/aide-au-transfert/28-coussin-d-aide-a-la-levee-35745901
 comme prévu pratiquement aucune société ne fait de chaise de se style, les société prefaire viser le marché des fauteuille par rapport au chaise
 partant de la nous avions reflechie a 2~3 possibilité de faire monter et descendre une personnes assis sur la chaise, 
 la premiere fut les pistons, simple, tres robuste mais chère
-la deuxieme éta	is de passez via un moteur et une crémailliére, moins robuste sa deman 
+la deuxieme éta	is de passez via un moteur et une crémailliére, moins robuste, mais efficace
+
