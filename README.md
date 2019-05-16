@@ -31,7 +31,7 @@ La deuxième était de passer via un moteur et une crémaillère, moins robuste,
 
 Après avoir choisi de passer par une crémaillère et un moteur, nous avons commencé à imaginer les pièces pour le projet
 
-![](https://zupimages.net/up/19/20/3mnu.png)
+![](https://zupimages.net/up/19/20/yr36.png)
 
 voici la [chaise](https://www.ikea.com/fr/fr/p/kritter-chaise-enfant-rouge-80153697/)
 
