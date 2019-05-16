@@ -25,7 +25,6 @@ Le projet étais donc lancer, nous avons quand même regarder sur le net si des 
 
 
 Comme prévue pratiquement, aucune société ne fait de chaise de ce style, les sociétés préfèrent viser le marché des fauteuils par rapport aux chaises.
-Comme prévue pratiquement, aucune société ne fait de chaise de se styler, les sociétés préfèrent viser le marché des fauteuils par rapport aux chaises.
 La première fut les pistons, simples, très robuste, mais chère.
 La deuxième était de passer via un moteur et une crémaillère, moins robuste, mais efficace.
 
