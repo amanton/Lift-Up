@@ -95,7 +95,6 @@ public class MainActivity extends AppCompatActivity {
         };
 
         if (mBTArrayAdapter == null) {
-            // Device does not support Bluetooth
             mBluetoothStatus.setText("Status: Bluetooth not found");
             Toast.makeText(getApplicationContext(),"Bluetooth device not found!",Toast.LENGTH_SHORT).show();
         }
@@ -153,15 +152,11 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    // Enter here after user selects "yes" or "no" to enabling radio
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent Data){
-        // Check which request we're responding to
         if (requestCode == REQUEST_ENABLE_BT) {
             // Make sure the request was successful
             if (resultCode == RESULT_OK) {
-                // The user picked a contact.
-                // The Intent's data Uri identifies which contact was selected.
                 mBluetoothStatus.setText("Enabled");
             }
             else
@@ -170,20 +165,19 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void bluetoothOff(View view){
-        mBTAdapter.disable(); // turn off
+        mBTAdapter.disable(); 
         mBluetoothStatus.setText("Bluetooth disabled");
         Toast.makeText(getApplicationContext(),"Bluetooth turned Off", Toast.LENGTH_SHORT).show();
     }
 
     private void discover(View view){
-        // Check if the device is already discovering
         if(mBTAdapter.isDiscovering()){
             mBTAdapter.cancelDiscovery();
             Toast.makeText(getApplicationContext(),"Discovery stopped",Toast.LENGTH_SHORT).show();
         }
         else{
             if(mBTAdapter.isEnabled()) {
-                mBTArrayAdapter.clear(); // clear items
+                mBTArrayAdapter.clear(); 
                 mBTAdapter.startDiscovery();
                 Toast.makeText(getApplicationContext(), "Discovery started", Toast.LENGTH_SHORT).show();
                 registerReceiver(blReceiver, new IntentFilter(BluetoothDevice.ACTION_FOUND));
@@ -200,7 +194,6 @@ public class MainActivity extends AppCompatActivity {
             String action = intent.getAction();
             if(BluetoothDevice.ACTION_FOUND.equals(action)){
                 BluetoothDevice device = intent.getParcelableExtra(BluetoothDevice.EXTRA_DEVICE);
-                // add the name to the list
                 mBTArrayAdapter.add(device.getName() + "\n" + device.getAddress());
                 mBTArrayAdapter.notifyDataSetChanged();
             }
@@ -210,7 +203,6 @@ public class MainActivity extends AppCompatActivity {
     private void listPairedDevices(View view){
         mPairedDevices = mBTAdapter.getBondedDevices();
         if(mBTAdapter.isEnabled()) {
-            // put it's one to the adapter
             for (BluetoothDevice device : mPairedDevices)
                 mBTArrayAdapter.add(device.getName() + "\n" + device.getAddress());
 
@@ -229,12 +221,9 @@ public class MainActivity extends AppCompatActivity {
             }
 
             mBluetoothStatus.setText("Connecting...");
-            // Get the device MAC address, which is the last 17 chars in the View
             String info = ((TextView) v).getText().toString();
             final String address = info.substring(info.length() - 17);
             final String name = info.substring(0,info.length() - 17);
-
-            // Spawn a new thread to avoid blocking the GUI one
             new Thread()
             {
                 public void run() {
@@ -258,7 +247,6 @@ public class MainActivity extends AppCompatActivity {
                             mHandler.obtainMessage(CONNECTING_STATUS, -1, -1)
                                     .sendToTarget();
                         } catch (IOException e2) {
-                            //insert code to deal with this
                             Toast.makeText(getBaseContext(), "Socket creation failed", Toast.LENGTH_SHORT).show();
                         }
                     }
@@ -276,7 +264,6 @@ public class MainActivity extends AppCompatActivity {
 
     private BluetoothSocket createBluetoothSocket(BluetoothDevice device) throws IOException {
         return  device.createRfcommSocketToServiceRecord(BTMODULEUUID);
-        //creates secure outgoing connection with BT device using UUID
     }
 
     private class ConnectedThread extends Thread {
@@ -288,9 +275,6 @@ public class MainActivity extends AppCompatActivity {
             mmSocket = socket;
             InputStream tmpIn = null;
             OutputStream tmpOut = null;
-
-            // Get the input and output streams, using temp objects because
-            // member streams are final
             try {
                 tmpIn = socket.getInputStream();
                 tmpOut = socket.getOutputStream();
@@ -301,19 +285,17 @@ public class MainActivity extends AppCompatActivity {
         }
 
         public void run() {
-            byte[] buffer = new byte[1024];  // buffer store for the stream
-            int bytes; // bytes returned from read()
-            // Keep listening to the InputStream until an exception occurs
+            byte[] buffer = new byte[1024];
+            int bytes; 
             while (true) {
                 try {
-                    // Read from the InputStream
                     bytes = mmInStream.available();
                     if(bytes != 0) {
-                        SystemClock.sleep(100); //pause and wait for rest of data. Adjust this depending on your sending speed.
-                        bytes = mmInStream.available(); // how many bytes are ready to be read?
-                        bytes = mmInStream.read(buffer, 0, bytes); // record how many bytes we actually read
+                        SystemClock.sleep(100); 
+                        bytes = mmInStream.available(); 
+                        bytes = mmInStream.read(buffer, 0, bytes); 
                         mHandler.obtainMessage(MESSAGE_READ, bytes, -1, buffer)
-                                .sendToTarget(); // Send the obtained bytes to the UI activity
+                                .sendToTarget(); 
                     }
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -323,15 +305,12 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
-        /* Call this from the main activity to send data to the remote device */
         public void write(String input) {
-            byte[] bytes = input.getBytes();           //converts entered String into bytes
+            byte[] bytes = input.getBytes();          
             try {
                 mmOutStream.write(bytes);
             } catch (IOException e) { }
         }
-
-        /* Call this from the main activity to shutdown the connection */
         public void cancel() {
             try {
                 mmSocket.close();
