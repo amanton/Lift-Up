@@ -29,7 +29,7 @@ Comme prévue pratiquement, aucune société ne fait de chaise de se styler, les
 La première fut les pistons, simples, très robuste, mais chère.
 La deuxième était de passer via un moteur et une crémaillère, moins robuste, mais efficace.
 
-Après avoir choisi de passer par une crémaillère et un moteur, nous avons commencé à imaginer les pièces pour le projet
+Après avoir choisi de passer par une crémaillère et un moteur.
 
 ![](https://zupimages.net/up/19/20/yr36.png) ![](https://zupimages.net/up/19/20/filr.png) ![](https://zupimages.net/up/19/20/6vpy.png)
 
