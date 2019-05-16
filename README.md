@@ -4,7 +4,6 @@ Projet Ul - Lift up
 [Presentations slide](https://docs.google.com/presentation/d/1F90I4jqLM0xJeXBUU_vE5x2pX4bnX4WyPgPFGB-84LE/edit?usp=sharing)
 
 Lift up
---------
 
 __Lift up__ a été imaginée et conçue pour les personnes avec _un léger handicap moteur_. Beaucoup de personne ne peuvent pas ou ont du mal à se relever lorsque qu'ils sont assis sur une chaise, et donc pour ces personnes-là, on a voulu créer un prototype de chaise autonome et a l'aspect d'une chaise ordinaire __qui pourrait donc être placé dans les restaurants__ pour que ces personnes puissent manger au restaurant __sans aide pour se relever__.
 
