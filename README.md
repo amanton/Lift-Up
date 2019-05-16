@@ -48,10 +48,8 @@ voici les [pièces modelisées](https://www.tinkercad.com/things/2Bs0kqwbqwV)
 Lors de l'avancement une partie programmation étais présente.
 nous avons dû programmer de l'arduino (qui est proche du C et du C++), comme nous ne somme pas expert en arduino, nous avons commencer a regarder les librairies disponible pour le fonctionnement d'un servo moteur, et surtout du bluetooth.
 suite à plusieurs dizaine d'heure a essayer de faire fonctionner le bluetooth sur la carte arduino, même avec l'aide d'un proffeseur, la carte ne voulais rien savoir.
-nous avons donc decider d'abandonner le bluetooth via l'arduino pour nous consacrer sur le raspberry, nous avons donc commencer de la programmation python, nous sommes déjà un plus apte a être sur ce langage ayant a pris les bases lors de notre année au début le raspberry servais juste de relais pour envoyer des donner a l'arduino, voici le codes de l'arduino : 
-[1er code arduino](https://github.com/DeadMeon/Lift-Up/blob/master/1erCodeArduino.ino)
-, et celui du raspberry : 
-[code python Raspberry](https://github.com/DeadMeon/Lift-Up/blob/master/bluetoothGPIO.py)
+nous avons donc decider d'abandonner le bluetooth via l'arduino pour nous consacrer sur le raspberry, nous avons donc commencer de la programmation python, nous sommes déjà un plus apte a être sur ce langage ayant a pris les bases lors de notre année au début le raspberry servais juste de relais pour envoyer des donner a l'arduino, voici le codes de [l'arduino](https://github.com/DeadMeon/Lift-Up/blob/master/1erCodeArduino.ino)
+, et celui du [raspberry](https://github.com/DeadMeon/Lift-Up/blob/master/bluetoothGPIO.py)
 
 [code test application android](https://github.com/DeadMeon/Lift-Up/blob/master/Test_Applcation_Android/main/java/com/example/devicelist/MainActivity.java)
 
