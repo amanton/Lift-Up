@@ -45,12 +45,11 @@ voici les [pièces modelisées pour le premier test](https://www.tinkercad.com/t
 
 voici les [pièces modelisées](https://www.tinkercad.com/things/2Bs0kqwbqwV)
 
-Lors de l'avancement une partie programmation étais présente.
-nous avons dû programmer de l'arduino (qui est proche du C et du C++), comme nous ne somme pas expert en arduino, nous avons commencer a regarder les librairies disponible pour le fonctionnement d'un servo moteur, et surtout du bluetooth.
+Lors de l'avancement une partie programmation étais présente. Nous avons dû programmer de l'Arduino (qui est proche du C et du C++), comme nous ne sommes pas expert en Arduino, nous avons commencé à regarder les librairies disponibles pour le fonctionnement d'un servomoteur, et surtout du Bluetooth.
 
-suite à plusieurs dizaine d'heure a essayer de faire fonctionner le bluetooth sur la carte arduino, même avec l'aide d'un proffeseur, la carte ne voulais rien savoir. Nous avons mis en place une application android qui n'a pas aboutie, car au debut on croyer que le fait que l'arduino ne recevez pas les donnée venais de notre application, vous pouvez acceder au code [ici](https://github.com/DeadMeon/Lift-Up/blob/master/Test_Applcation_Android/main/java/com/example/devicelist/MainActivity.java). 
+Suite à plusieurs dizaines d'heures à essayer de faire fonctionner le Bluetooth sur la carte Arduino, même avec l'aide d'un professeur, la carte ne voulais rien savoir. Nous avons mis en place une application Android qui n'a pas abouti, car au début, on croyait que le fait que l'Arduino ne recevait pas les données venais de notre application, vous pouvez accéder au code ici.
 
-nous avons donc decider d'abandonner le bluetooth via l'arduino pour nous consacrer sur le raspberry, nous avons donc commencer de la programmation python, nous sommes déjà un plus apte a être sur ce langage ayant apprit les bases lors de notre année au début le raspberry servais juste de relais pour envoyer des donner a l'arduino, voici le codes de [l'arduino](https://github.com/DeadMeon/Lift-Up/blob/master/1erCodeArduino.ino).
+Nous avons donc décider d'abandonner le Bluetooth via l'Arduino pour nous consacrer sur le Raspberry, nous avons donc commencer de la programmation python, nous sommes déjà un plus apte à être sur ce langage ayant appris les bases lors de notre année au début le Raspberry servais juste de relais pour envoyer des donner a l'Arduino, voici le code de [l'Arduino](https://github.com/DeadMeon/Lift-Up/blob/master/1erCodeArduino.ino).
 
 pendant le devellopement du programme en python pour la chaise, nous avons reçu la chaise et nous avons commencer les modifications dessus, pour la rendre "compatible" avec notre systeme, nous avons trouer certain partie, retirer quelque partie aussi mais nous avons surtout poncer beaucoup de partie que se soit de la chaise ou des pièces imprimé en 3d, rien de très compliquer, sa prend juste un peu de temps et de patience, la chaise avancer donc tres bien pendant le temps du devellopement. 
 
