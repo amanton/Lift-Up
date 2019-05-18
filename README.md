@@ -19,8 +19,6 @@ Il y avait plusieurs styles de chaise possible, la première aurais étais de fa
 
 Un version similaire a vu le jour dans nos tête juste après, __remplacer les rails par des roues__, sauf que comme l'exemple du grand-père de richard, il a honte qu'on le voit avoir besoin d'aide, donc voir des roue sous une chaise serais la preuve qu'il a besoin d'aide. Mais aussi des problèmes techniques, car il faudrait gérer les roues pour éviter que la chaise glisse ou se retourne due à un centre de gravité mal gérée. Et si les roues étaient motorisées, il faudrait vérifier s'il y a un obstacle derrière la chaise et si oui, ne pas reculer. On est donc partie sur le troisième modèle qui est qu'on __garde l'architecture basique d'une chaise__, on rajoute un moteur ou des piston en dessous les plus discrets possibles, la personne devras certes faire un peu plus d'effort que les 2 autres chaises citez au-dessus, mais __la chaise sera pratiquement la même que les autres dans le restaurant__, et c'est vraiment le __but du projet__.
 
-Comme on n'est pas des ingénieur et qu'on n'a pas les outils ni même les matériaux notre chaise donc l'aspect shoutaiter ne sera donc pas présent <what ?>
-
 Bon, partant de cette idée, on avait deux choix qui s'ouvrait a nous :
 * Faire une maquette puis essayer de faire une chaise grandeur nature. 
 * Faire un prototype fonctionnel pour sa taille.
@@ -35,7 +33,9 @@ Le projet étais donc lancer, nous avons quand même regarder sur le net si des 
 [Coussin d'aide à la levée](https://www.tousergo.com/aide-au-transfert/28-coussin-d-aide-a-la-levee-3574590140219.html).
 Comme prévue pratiquement, aucune société ne fait de chaise de ce style, les sociétés préfèrent viser le marché des fauteuils par rapport aux chaises.
 
-1. La première (chaise ?) fut les pistons, simples.
+Nous avons réfléchi à plusieurs idées permettant de faire monter le siège d'une chaise :
+
+1. La première idée fut les pistons, simples.
 2. La deuxième était de passer par une [vis sans fin](https://upload.wikimedia.org/wikipedia/commons/b/b8/Vis100f1.png)qui est un engrenage et une vis.  
 3. La troisieme était de passer via un engrenage et une crémaillère, moins robuste, mais efficace.
 
