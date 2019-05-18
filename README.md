@@ -36,7 +36,7 @@ Comme prévue pratiquement, aucune société ne fait de chaise de ce style, les 
 Nous avons réfléchi à plusieurs idées permettant de faire monter le siège d'une chaise :
 
 1. La première idée fut les pistons, simples.
-2. La deuxième était de passer par une [vis sans fin](https://upload.wikimedia.org/wikipedia/commons/b/b8/Vis100f1.png)qui est un engrenage et une vis.  
+2. La deuxième était de passer par une [vis sans fin](https://upload.wikimedia.org/wikipedia/commons/b/b8/Vis100f1.png) qui est un engrenage et une vis.  
 3. La troisieme était de passer via un engrenage et une crémaillère, moins robuste, mais efficace.
 
 La première est très efficace, mais chère et dangereuse si elle est mal programmer (elle pourrait catapulter la personne contre la table ou son voisin d'en face). La deuxième peut soulever une importante charge et de manière précise. Mais est impossible due à l'irréversibilité de la vis sans fin, car on ne pouvait pas placer la vis de la manière voulue due a la présence du moteur qui bloquait la crémaillère. La troisième est fonctionnelle et efficace, mais dépendante de la matière dont est constituer la crémaillère ainsi qu'a la fixation entre la crémaillère et l'assise de la chaise. Car si le poids et trop important, soit la crémaillère cède sous le poids ou bien la crémaillère perfore l'assise si la force sur l'assise de la chaise est mauvaise.  
