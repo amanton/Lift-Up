@@ -57,6 +57,8 @@ Nous avons donc choisit de passer par la troisième méthode.
 Pour commencer, il nous fallait fabriquer une chaise pour le prototype, mais nous n'avions pas assez de temps. Nous avons donc plutôt opté pour une [chaise en kit](https://www.ikea.com/fr/fr/p/kritter-chaise-enfant-rouge-80153697/) de chez IKEA.
 Nous avons donc modifier la chaise de manière a retirer les vises qui maintenait l'assise. Et nous les avons remplacé par des charnières qui permettent à la chaise de se lever tout en restant fixer au squelette de la chaise. 
 
+![](https://zupimages.net/up/19/20/uzdp.jpg)
+
 Comme c'est un prototype, il se doit d'être peu coûteux. Donc nous avons choisi de fabriquer la crémaillère en plastique imprimer avec une imprimante 3D. L'engrenage a aussi été imprimé en 3D pour qu'il s'emboîte parfaitement. Anis qu'un bloc pour les contenir et qu'il reste assembler.Les pièces étant uniques nous avons due les modéliser en 3D, c'est Aziz qui la fait. Vous pouvez voir [ici](https://www.tinkercad.com/things/dY0HXlwu65n) les pièces modélisées pour le premier test et [ici](https://www.tinkercad.com/things/2Bs0kqwbqwV) les pièces utiliser pour le montage final. Seules ces dernières on été imprimer.
 
 Quand nous avons reçu la chaise, nous avons commencer les modifications dessus, pour la rendre "compatible" avec notre système, nous avons troué certain partie, retirer quelques parties aussi, mais nous avons surtout poncer beaucoup de partie que se soit de la chaise ou des pièces imprimé en 3d, rien de très compliquer, ça prend juste un peu de temps et de patience, la chaise avancer donc très bien pendant le temps du développement.
