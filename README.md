@@ -10,6 +10,8 @@
 
 __Lift up__ a été imaginée et conçue pour les personnes avec _un léger handicap moteur_. Beaucoup de personnes ne peuvent pas ou ont du mal à se relever lorsque qu'ils sont assises sur une chaise, et donc pour ces personnes là, on a voulu créer un prototype de chaise autonome et à l'aspect d'une chaise ordinaire __qui pourrait donc être placée dans les restaurants__ pour que ces personnes puissent manger au restaurant __sans aide pour se relever__.
 
+Le projet ne peut malheureusement pas être adapté pour les personnes ayant un gros handicap moteur.
+
 Pourquoi sommes-nous aller vers ce projet ? 
 
 >je connais plusieurs personnes qui souffrent au niveau des jambes, et ce qui m'a le plus marqué c'est mon grand-père qui aime beaucoup sortir aux restaurants mais depuis quelques années il ne veut plus y aller car il se __sent gêné de demander de l'aide pour le relever d'une chaise__, comme il existe déjà des sièges et fauteuils qui aident à se relever, pourquoi des chaises fines ne peuvent pas le faire aussi ? 
