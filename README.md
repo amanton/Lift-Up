@@ -12,7 +12,7 @@ __Lift up__ a été imaginée et conçue pour les personnes avec _un léger hand
 
 Pourquoi somme nous aller vers ce projet ? 
 
->je connais plusieurs personnes qui souffre au niveau des jambes, et ce qui m'a le plus marqué c'est mon grand-père qui aime beaucoup sortir aux restaurents mais depuis quelques années il ne veut plus y aller car il se __sent gênez de demander de l'aide pour le relever d'une chaise__, comme il existe déjà des siège et fauteuils qui aide à se relever, pourquoi des chaises fine ne peuvent pas le faire aussi ?
+>je connais plusieurs personnes qui souffre au niveau des jambes, et ce qui m'a le plus marqué c'est mon grand-père qui aime beaucoup sortir aux restaurents mais depuis quelques années il ne veut plus y aller car il se __sent gênez de demander de l'aide pour le relever d'une chaise__, comme il existe déjà des siège et fauteuils qui aide à se relever, pourquoi des chaises fine ne peuvent pas le faire aussi ? >Richard
 
 En partant de cette question, le projet est né et les schémas ont commencé à être imaginé.
 
