@@ -86,6 +86,7 @@ les pièces modelisser sont :
 * Crémaillère
 * Un engrenage
 * Un support moteur
+
 La crémaillère servira à soulever le siège, elle sera propulsée via l'engrenage qui sera dans son support permettant a l'engrenage et la crémaillère d'être en contact, le servomoteur se rajoute au support pour actionner le tout, ils sont enveloppés par un boîtier pour protéger le tout, le boîtier inclus des trou sur 2 extrémité pour insérer un support (bâton en bois) pour avoir une liberté d'axe.
 
 
