@@ -122,3 +122,13 @@ Comme prévu n'étant pas des ingénieurs, nous n'avions pas toutes les compéte
 ## En Conclusion
 
 Pour conclure, nous sommes fiers de présenter ce projet, c'est un projet qui nous tient a Coeur, essayer de donner une autonomie aux personnes qui la perde suite aux faiblesses de leur corps. C'est un monde qui n'est pas exploiter par les sociétés et nous ne comprenons pas, c'est certes peut être très complexe si on veut associer la puissance des moteur avec l'esthétique d'une chaise et le confort aussi, car il est vrai que nous n'avons pas du tout prêter attention au confort, car nous avions qu'une chaise en bois pour enfant on pouvais pas trop comparais, ce projet prouve que ce n'est pas impossible comme idée et que de nombreuses sociétés pourrais démocratiser ce domaine pour le bien des personnes dans le besoin.
+
+## Bibliographie
+
+*Ben Nuttall*.14. API - Output Devices,03/04/2017, [https://gpiozero.readthedocs.io/en/stable/api_output.html], (05/04/2019).
+*GRAFIKART*. Qu'est ce qu'un Raspberry Pi ?, 23/10/2015, [https://www.grafikart.fr/blog/raspberry-pi-utilisation], (15, 02, 2019).
+*C. Fréou et A. Grimault*. Découverte des cartes Arduino, 08/04/2016, [http://www.techmania.fr/arduino/Decouverte_arduino.pdf], (15, 02, 2019).
+*Wikipédia, General Purpose Input/Output, 31/03/2019, [https://fr.wikipedia.org/wiki/General_Purpose_Input/Output], (20/04/2019).
+*Claude Gomi, Le Bouvet*, Fabrication d'une chaise: le confort d'une assise, 03/05/2009, [http://www.ideesmaison.com/Bricolage/Fiches-bricos/Bois/Fabriquer-du-mobilier/Fabrication-de-chaises/Les-elements-de-confort.html], (01/05/2019).
+*Mathieu Nebra*, Rédigez en Markdown !, 29/11/2017, [https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown], (29/04/2019)
+
