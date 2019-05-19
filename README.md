@@ -82,7 +82,7 @@ Nous avons utilisé le site [Tinkercad](https://www.tinkercad.com) pour la modé
 
 Vous pouvez voir [ici](https://www.tinkercad.com/things/dY0HXlwu65n) les pièces modélisées pour le premier test et [ici](https://www.tinkercad.com/things/2Bs0kqwbqwV) les pièces utiliser pour le montage final. Seules ces dernières on été imprimer.
 
-les pièces modelisser sont :
+Les pièces modélisaient sont :
 * Crémaillère
 * Un engrenage
 * Un support moteur
