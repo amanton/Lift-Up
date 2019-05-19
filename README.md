@@ -140,7 +140,7 @@ Comme prévu n'étant pas des ingénieurs, nous n'avions pas toutes les compéte
 
 ## En Conclusion
 
-Pour conclure, nous sommes fiers de présenter ce projet, c'est un projet qui nous tient a Coeur, essayer de donner une autonomie aux personnes qui la perde suite aux faiblesses de leur corps. C'est un monde qui n'est pas exploiter par les sociétés et nous ne comprenons pas, c'est certes peut être très complexe si on veut associer la puissance des moteur avec l'esthétique d'une chaise et le confort aussi, car il est vrai que nous n'avons pas du tout prêter attention au confort, car nous avions qu'une chaise en bois pour enfant on pouvais pas trop comparais, ce projet prouve que ce n'est pas impossible comme idée et que de nombreuses sociétés pourrais démocratiser ce domaine pour le bien des personnes dans le besoin.
+Pour conclure, nous sommes fiers de présenter ce projet, c'est un projet qui nous tient a Coeur, essayer de donner une autonomie aux personnes qui la perde suite aux faiblesses de leur corps. C'est un monde qui n'est pas exploiter par les sociétés et nous ne comprenons pas, c'est certes peut être très complexe si on veut associer la puissance des moteur avec l'esthétique d'une chaise et le confort aussi, car il est vrai que nous n'avons pas du tout prêter attention au confort, car nous avions qu'une chaise en bois pour enfant on pouvais pas trop comparé, ce projet prouve que ce n'est pas impossible comme idée et que de nombreuses sociétés pourrais démocratiser ce domaine pour le bien des personnes dans le besoin.
 
 ## Bibliographie
 
