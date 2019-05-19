@@ -71,9 +71,8 @@ Une chaise est complexe à créer, plusieurs critères liés à la conception po
 	>>Fabrication d'une chaise: le confort d'une assise
 
 
-![](https://zupimages.net/up/19/20/uzdp.jpg)
->Schéma d'une chaise
->>http://www.ikonet.com/fr/ledictionnairevisuel/maison/ameublement-de-la-maison/chaise/parties.php
+![](https://zupimages.net/up/19/20/uzdp.jpg "Schéma d'une chaise")
+>http://www.ikonet.com/fr/ledictionnairevisuel/maison/ameublement-de-la-maison/chaise/parties.php
 
 Comme c'est un prototype, il se doit d'être peu coûteux. Donc nous avons choisi de fabriquer la crémaillère en plastique imprimer avec une imprimante 3D. L'engrenage a aussi été imprimé en 3D pour qu'il s'emboîte parfaitement. Anis qu'un bloc pour les contenir et qu'il reste assembler.Les pièces étant uniques nous avons due les modéliser en 3D, c'est Aziz qui la fait. 
 
