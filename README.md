@@ -71,7 +71,7 @@ Une chaise est complexe à créer, plusieurs critères liés à la conception po
 
 Comme c'est un prototype, il se doit d'être peu coûteux. Donc nous avons choisi de fabriquer la crémaillère en plastique imprimer avec une imprimante 3D. L'engrenage a aussi été imprimé en 3D pour qu'il s'emboîte parfaitement. Anis qu'un bloc pour les contenir et qu'il reste assembler.Les pièces étant uniques nous avons due les modéliser en 3D, c'est Aziz qui la fait. 
 
-Nous avons utilisé le site [TinkerCad](https://www.tinkercad.com) pour la modélisation qui est aussi une application disponible sur Windows via le store. Cette application est produite par la société [Autodesk](https://fr.wikipedia.org/wiki/Autodesk).
+Nous avons utilisé le site [Tinkercad](https://www.tinkercad.com) pour la modélisation qui est aussi une application disponible sur Windows via le store. Cette application est produite par la société [Autodesk](https://fr.wikipedia.org/wiki/Autodesk).
 
 >Tinkercad est un outil gratuit et convivial pour la conception 3D, l'électronique et le codage. Il permet aux enseignants, aux enfants, aux amateurs et aux concepteurs d'imaginer, de concevoir et de fabriquer sans limites.
 
