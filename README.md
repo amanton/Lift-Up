@@ -21,31 +21,31 @@ En partant de cette question, le projet est né et les schémas ont commencé à
 ## Choix du Projet
 
 
-Il y avait plusieurs styles de chaise possible, la première aurait été de faire __une chaise totalement automatisée avec des rails__ pour qu'elles n'aient pas à forcer, sauf que ce type avait des défauts, elle aurait été __très peu maniable__ pour les restaurateurs et les rails auraient pu fait tomber une personne. Donc personnes ne l'auraient acheté.
+Il y avait plusieurs styles de chaise possible, la première aurait été de faire __une chaise totalement automatisée avec des rails__ pour qu'elles n'aient pas à forcer, sauf que ce type avait des défauts, elle aurait été __très peu maniable__ pour les restaurateurs et les rails auraient pu fait tomber une personne. Donc personnes ne l'aurait achetée.
 
-Un version similaire a vu le jour dans nos tête juste après, __remplacer les rails par des roues__, sauf que comme l'exemple du grand-père de richard, il a honte qu'on le voit avoir besoin d'aide, donc voir des roue sous une chaise serais la preuve qu'il a besoin d'aide. Mais aussi des problèmes techniques, car il faudrait gérer les roues pour éviter que la chaise glisse ou se retourne due à un centre de gravité mal gérée. Et si les roues étaient motorisées, il faudrait vérifier s'il y a un obstacle derrière la chaise et si oui, ne pas reculer. On est donc partie sur le troisième modèle qui est qu'on __garde l'architecture basique d'une chaise__, on rajoute un moteur ou des piston en dessous les plus discrets possibles, la personne devras certes faire un peu plus d'effort que les 2 autres chaises citez au-dessus, mais __la chaise sera pratiquement la même que les autres dans le restaurant__, et c'est vraiment le __but du projet__.
+Une version similaire a vu le jour dans nos têtes juste après, __remplacer les rails par des roues__, sauf que comme l'exemple du grand-père de richard, il a honte qu'on le voit avoir besoin d'aide, donc voir des roues sous une chaise serait la preuve qu'il a besoin d'aide. Mais aussi des problèmes techniques, car il faudrait gérer les roues pour éviter que la chaise glisse ou se retourne due à un centre de gravité mal géré. Et si les roues étaient motorisées, il faudrait vérifier s'il y a un obstacle derrière la chaise et si oui, ne pas reculer. On est donc partis sur le troisième modèle qui est qu'on __garde l'architecture basique d'une chaise__, on rajoute un moteur ou des piston en dessous les plus discrets possible, la personne devra certes faire un peu plus d'effort que les 2 autres chaises citées au-dessus, mais __la chaise sera pratiquement la même que les autres dans le restaurant__, et c'est vraiment le __but du projet__.
 
-Bon, partant de cette idée, on avait deux choix qui s'ouvrait a nous :
+Bon, partant de cette idée, on avait deux choix qui s'ouvraient à nous :
 * Faire une maquette puis essayer de faire une chaise grandeur nature. 
 * Faire un prototype fonctionnel pour sa taille.
 
-On est partie pour un prototype fonctionnelle, car nous n'avions ni le temps, ni les moyens financiers pour un tel projet. 
+On est partis pour un prototype fonctionnelle, car nous n'avions ni le temps, ni les moyens financiers pour un tel projet. 
 
 
 ## Brainstorm
 
 
-Le projet étais donc lancer, nous avons quand même regarder sur le net si des chaise de ce style exister dans le marché. Mais sans grande trouvaille, sauf un produit nous reste en tête 
+Le projet était donc lancé, nous avons quand même regardé sur le net si des chaises de ce style existaient dans le marchés, mais sans grande trouvaille, un seul produit nous reste en tête 
 [Coussin d'aide à la levée](https://www.tousergo.com/aide-au-transfert/28-coussin-d-aide-a-la-levee-3574590140219.html).
-Comme prévue pratiquement, aucune société ne fait de chaise de ce style, les sociétés préfèrent viser le marché des fauteuils par rapport aux chaises.
+Comme prévu pratiquement aucune société ne fait de chaise de ce style, les sociétés préfèrent viser le marché des fauteuils par rapport aux chaises.
 
 Nous avons réfléchi à plusieurs idées permettant de faire monter le siège d'une chaise :
 
 1. La première idée fut les pistons, simples.
 2. La deuxième était de passer par une [vis sans fin](https://upload.wikimedia.org/wikipedia/commons/b/b8/Vis100f1.png) qui est un engrenage et une vis.  
-3. La troisieme était de passer via un engrenage et une crémaillère, moins robuste, mais efficace.
+3. La troisième était de passer via un engrenage et une crémaillère, moins robuste, mais efficace.
 
-La première est très efficace, mais chère et dangereuse si elle est mal programmer (elle pourrait catapulter la personne contre la table ou son voisin d'en face). La deuxième peut soulever une importante charge et de manière précise. Mais est impossible due à l'irréversibilité de la vis sans fin, car on ne pouvait pas placer la vis de la manière voulue due a la présence du moteur qui bloquait la crémaillère. La troisième est fonctionnelle et efficace, mais dépendante de la matière dont est constituer la crémaillère ainsi qu'a la fixation entre la crémaillère et l'assise de la chaise. Car si le poids et trop important, soit la crémaillère cède sous le poids ou bien la crémaillère perfore l'assise si la force sur l'assise de la chaise est mauvaise.  
+La première est très efficace, mais chère et dangereuse si elle est mal programmée (elle pourrait éjecter la personne contre la table ou son voisin d'en face). La deuxième peut soulever une importante charge et de manière précise, mais est impossible due à l'irréversibilité de la vis sans fin, car on ne pouvait pas placer la vis de la manière voulue due a la présence du moteur qui bloquait la crémaillère. La troisième est fonctionnelle et efficace, mais dépendante de la matière dont est constituée la crémaillère ainsi qu'à la fixation entre la crémaillère et le siège de la chaise, car si le poids et trop important, soit la crémaillère cède sous le poids ou bien la crémaillère perfore le siège si la force est trop importante.  
 
 Nous avons donc choisit de passer par la troisième méthode.
 
@@ -55,8 +55,8 @@ Nous avons donc choisit de passer par la troisième méthode.
 
 ### Construction
 
-Notre première question pour la construction du projet était de savoir si on allait construire la chaise entièrement ou si nous prenions un kit d'une chaise chez un fabricant. Comme le temps nous manquer un peu, nous avons opté pour choisir une petite [chaise](https://www.ikea.com/fr/fr/p/kritter-chaise-enfant-rouge-80153697/)
- chez le leader IKEA, ceci fait nous a beaucoup facilité la tache, car il nous rester qu'a ajuster la chaise pour qu'elle soit fonctionnelle avec notre projet.
+Notre première question pour la construction du projet était de savoir si on allait construire la chaise entièrement ou si nous prendrions un kit d'une chaise chez un fabricant. Comme le temps nous manquait un peu, nous avons opté pour choisir une petite [chaise](https://www.ikea.com/fr/fr/p/kritter-chaise-enfant-rouge-80153697/)
+ chez le leader IKEA, ceci fait nous a beaucoup facilité la tâche, car il nous rester qu'a ajuster la chaise pour qu'elle soit fonctionnelle avec notre projet.
 
 
 Une chaise est complexe à créer, plusieurs critères liés à la conception pour le confort sont très précis : 
@@ -74,20 +74,20 @@ Une chaise est complexe à créer, plusieurs critères liés à la conception po
 ![](https://zupimages.net/up/19/20/uzdp.jpg "Schéma d'une chaise")
 >[Schéma d'une chaise](http://www.ikonet.com/fr/ledictionnairevisuel/maison/ameublement-de-la-maison/chaise/parties.php)
 
-Comme c'est un prototype, il se doit d'être peu coûteux. Donc nous avons choisi de fabriquer la crémaillère en plastique imprimer avec une imprimante 3D. L'engrenage a aussi été imprimé en 3D pour qu'il s'emboîte parfaitement. Anis qu'un bloc pour les contenir et qu'il reste assembler.Les pièces étant uniques nous avons due les modéliser en 3D, c'est Aziz qui la fait. 
+Comme c'est un prototype, il se doit d'être peu coûteux. Donc nous avons choisi de fabriquer la crémaillère en plastique imprimer avec une imprimante 3D. L'engrenage a aussi été imprimé en 3D pour qu'il s'emboîte parfaitement ainsi qu'un bloc pour les contenir et qu'il reste assemblés.Les pièces étant uniques nous avons due les modéliser en 3D. 
 
 Nous avons utilisé le site [Tinkercad](https://www.tinkercad.com) pour la modélisation qui est aussi une application disponible sur Windows via le store. Cette application est produite par la société [Autodesk](https://fr.wikipedia.org/wiki/Autodesk).
 
 >Tinkercad est un outil gratuit et convivial pour la conception 3D, l'électronique et le codage. Il permet aux enseignants, aux enfants, aux amateurs et aux concepteurs d'imaginer, de concevoir et de fabriquer sans limites.
 
-Vous pouvez voir [ici](https://www.tinkercad.com/things/dY0HXlwu65n) les pièces modélisées pour le premier test et [ici](https://www.tinkercad.com/things/2Bs0kqwbqwV) les pièces utiliser pour le montage final. Seules ces dernières on été imprimer.
+Vous pouvez voir [ici](https://www.tinkercad.com/things/dY0HXlwu65n) les pièces modélisées pour le premier test et [ici](https://www.tinkercad.com/things/2Bs0kqwbqwV) les pièces utilisées pour le montage final. Seules ces dernières on été imprimées.
 
 Les pièces modélisaient sont :
 * Crémaillère
 * Un engrenage
 * Un support moteur
 
-La crémaillère servira à soulever le siège, elle sera propulsée via l'engrenage qui sera dans son support permettant a l'engrenage et la crémaillère d'être en contact, le servomoteur se rajoute au support pour actionner le tout, ils sont enveloppés par un boîtier pour protéger le tout, le boîtier inclus des trou sur 2 extrémité pour insérer un support (bâton en bois) pour avoir une liberté d'axe.
+La crémaillère servira à soulever le siège, elle sera propulsée via l'engrenage qui sera dans son support permettant à l'engrenage et la crémaillère d'être en contact, le servomoteur se rajoute au support pour actionner le tout, ils sont enveloppés par un boîtier pour protéger le tout, le boîtier inclus des trous sur 2 extrémités pour insérer un support (bâton en bois) pour avoir une liberté d'axe.
 
 
 Quand nous avons reçu la chaise, nous avons commencer les modifications dessus, pour la rendre "compatible" avec notre système, nous avons troué certain partie, retirer quelques parties aussi, mais nous avons surtout poncer beaucoup de partie que se soit de la chaise ou des pièces imprimé en 3d, rien de très compliquer, ça prend juste un peu de temps et de patience, la chaise avancer donc très bien pendant le temps du développement.
