@@ -125,15 +125,15 @@ Pour conclure, nous sommes fiers de présenter ce projet, c'est un projet qui no
 
 ## Bibliographie
 
-*Ben Nuttall*.14. API - Output Devices,03/04/2017, [https://gpiozero.readthedocs.io/en/stable/api_output.html], (05/04/2019).
+* Ben Nuttall*.14. API - Output Devices,03/04/2017, [https://gpiozero.readthedocs.io/en/stable/api_output.html], (05/04/2019).
 
-*GRAFIKART*. Qu'est ce qu'un Raspberry Pi ?, 23/10/2015, [https://www.grafikart.fr/blog/raspberry-pi-utilisation], (15, 02, 2019).
+* GRAFIKART*. Qu'est ce qu'un Raspberry Pi ?, 23/10/2015, [https://www.grafikart.fr/blog/raspberry-pi-utilisation], (15, 02, 2019).
 
-*C. Fréou et A. Grimault*. Découverte des cartes Arduino, 08/04/2016, [http://www.techmania.fr/arduino/Decouverte_arduino.pdf], (15, 02, 2019).
+* C. Fréou et A. Grimault*. Découverte des cartes Arduino, 08/04/2016, [http://www.techmania.fr/arduino/Decouverte_arduino.pdf], (15, 02, 2019).
 
-*Wikipédia, General Purpose Input/Output, 31/03/2019, [https://fr.wikipedia.org/wiki/General_Purpose_Input/Output], (20/04/2019).
+* Wikipédia, General Purpose Input/Output, 31/03/2019, [https://fr.wikipedia.org/wiki/General_Purpose_Input/Output], (20/04/2019).
 
-*Claude Gomi, Le Bouvet*, Fabrication d'une chaise: le confort d'une assise, 03/05/2009, [http://www.ideesmaison.com/Bricolage/Fiches-bricos/Bois/Fabriquer-du-mobilier/Fabrication-de-chaises/Les-elements-de-confort.html], (01/05/2019).
+* Claude Gomi, Le Bouvet*, Fabrication d'une chaise: le confort d'une assise, 03/05/2009, [http://www.ideesmaison.com/Bricolage/Fiches-bricos/Bois/Fabriquer-du-mobilier/Fabrication-de-chaises/Les-elements-de-confort.html], (01/05/2019).
 
-*Mathieu Nebra*, Rédigez en Markdown !, 29/11/2017, [https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown], (29/04/2019)
+* Mathieu Nebra*, Rédigez en Markdown !, 29/11/2017, [https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown], (29/04/2019)
 
