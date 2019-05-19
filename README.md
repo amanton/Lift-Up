@@ -69,7 +69,13 @@ Une chaise est complexe à créer, plusieurs critères liés à la conception po
 
 ![](https://zupimages.net/up/19/20/uzdp.jpg)
 
-Comme c'est un prototype, il se doit d'être peu coûteux. Donc nous avons choisi de fabriquer la crémaillère en plastique imprimer avec une imprimante 3D. L'engrenage a aussi été imprimé en 3D pour qu'il s'emboîte parfaitement. Anis qu'un bloc pour les contenir et qu'il reste assembler.Les pièces étant uniques nous avons due les modéliser en 3D, c'est Aziz qui la fait. Vous pouvez voir [ici](https://www.tinkercad.com/things/dY0HXlwu65n) les pièces modélisées pour le premier test et [ici](https://www.tinkercad.com/things/2Bs0kqwbqwV) les pièces utiliser pour le montage final. Seules ces dernières on été imprimer.
+Comme c'est un prototype, il se doit d'être peu coûteux. Donc nous avons choisi de fabriquer la crémaillère en plastique imprimer avec une imprimante 3D. L'engrenage a aussi été imprimé en 3D pour qu'il s'emboîte parfaitement. Anis qu'un bloc pour les contenir et qu'il reste assembler.Les pièces étant uniques nous avons due les modéliser en 3D, c'est Aziz qui la fait. 
+
+Nous avons utilisé le site TinkerCad pour la modélisation qui est aussi une application disponible sur Windows via le store. Cette application est produite par la société Autodesk.
+
+>Tinkercad est un outil gratuit et convivial pour la conception 3D, l'électronique et le codage. Il permet aux enseignants, aux enfants, aux amateurs et aux concepteurs d'imaginer, de concevoir et de fabriquer sans limites.
+
+Vous pouvez voir [ici](https://www.tinkercad.com/things/dY0HXlwu65n) les pièces modélisées pour le premier test et [ici](https://www.tinkercad.com/things/2Bs0kqwbqwV) les pièces utiliser pour le montage final. Seules ces dernières on été imprimer.
 
 Quand nous avons reçu la chaise, nous avons commencer les modifications dessus, pour la rendre "compatible" avec notre système, nous avons troué certain partie, retirer quelques parties aussi, mais nous avons surtout poncer beaucoup de partie que se soit de la chaise ou des pièces imprimé en 3d, rien de très compliquer, ça prend juste un peu de temps et de patience, la chaise avancer donc très bien pendant le temps du développement.
 
