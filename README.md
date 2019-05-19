@@ -89,7 +89,6 @@ Lors de l'avancement une partie programmation étais présente. Nous avons dû p
 
 On a donc appris ou du moins essayer de programmer en Arduino, après plusieurs séances a tester les fonctionnalités que nous offre les librairies, on a commencé à s'intéresser au fonctionnement des Connecteurs pour gérer les entrées et les sorties numériques. Les signaux transmirent par ces connecteurs sont des signaux logiques, c'est-à-dire qu'ils ne peuvent prendre que deux états : HAUT (5 Volts) ou BAS (0 Volt), par rapport au connecteur de masse GND, qui lui est toujours, par définition, à 0 Volt. Il existe aussi des entrées analogique qui peuvent aussi prendre que 2 état , mais peuvent admettre 1024 valeurs comprises entre 0 et 5 Volts, ces entrées servent à faire varier la luminosité d'une del par exemple.
 
-nous avons essayer d'utiliser blockly-arduino pour programmer de l'arduino
 
 Suite à plusieurs dizaines d'heures à essayer de faire fonctionner le Bluetooth sur la carte Arduino, même avec l'aide d'un professeur, la carte ne voulais rien savoir. Nous avons mis en place une application Android qui n'a pas abouti, car au début, on croyait que le fait que l'Arduino ne recevait pas les données venais de notre application, vous pouvez accéder au code [ici](https://github.com/DeadMeon/Lift-Up/blob/master/Test_Applcation_Android/main/java/com/example/devicelist/MainActivity.java).
 
