@@ -94,7 +94,72 @@ Nous avons donc décider d'abandonner le Bluetooth via l'Arduino pour nous consa
 
 Pendant le développement du programme en python pour la chaise, nous avons reçu la chaise et nous avons commencer les modifications dessus, pour la rendre "compatible" avec notre système, nous avons troué certain partie, retirer quelques parties aussi, mais nous avons surtout poncer beaucoup de partie que se soit de la chaise ou des pièces imprimé en 3d, rien de très compliquer, ça prend juste un peu de temps et de patience, la chaise avancer donc très bien pendant le temps du développement.
 
-Une première version du code python vu le jour, la chaise se levais et redescendais tout été parfait ! Mais un jour plus rien n'était parfait nous avons donc décider de passer le projet que sur un unique Raspberry et nous avons fait nos adieux à l'Arduino qui nous a poser beaucoup de soucis, mais le Raspberry nous posa aussi beaucoup de soucis, du moins une libraire python nous causa beaucoup de soucis, Même en regardant des tutoriel, des vidéo, la documentation la première libraire que nous avions utilisé été incompréhensible, le moteur ne réagissais pas logiquement. Suite a ça nous avons trouver une nouvelle librairie qui réagissait correctement avec le moteur que nous avions et la chaise été donc enfin fonctionnelle. Voici le code [Python](https://github.com/DeadMeon/Lift-Up/blob/master/bluetoothGPIO.py), et le fait de passer que par le Raspberry nous fait donc avoir une chaise totalement libre niveau énergie, une simple batterie externe de téléphone suffit pour que la chaise fonctionne.
+Une première version du code python vu le jour, la chaise se levais et redescendais tout été parfait ! Mais un jour plus rien n'était parfait nous avons donc décider de passer le projet que sur un unique Raspberry et nous avons fait nos adieux à l'Arduino qui nous a poser beaucoup de soucis, mais le Raspberry nous posa aussi beaucoup de soucis, du moins une libraire python nous causa beaucoup de soucis, Même en regardant des tutoriel, des vidéo, la documentation la première libraire que nous avions utilisé été incompréhensible, le moteur ne réagissais pas logiquement. Suite a ça nous avons trouver une nouvelle librairie qui réagissait correctement avec le moteur que nous avions et la chaise été donc enfin fonctionnelle et le fait de passer que par le Raspberry nous fait donc avoir une chaise totalement libre niveau énergie, une simple batterie externe de téléphone suffit pour que la chaise fonctionne.
+
+    #!/usr/bin/env /usr/bin/python
+    from gpiozero import AngularServo
+    import time
+    import socket
+
+    #pin
+
+    moteur = 18
+    up = False
+
+    #setup bleutooth
+
+    server_socket = socket.socket(socket.AF_BLUETOOTH, socket.SOCK_STREAM, socket.BTPROTO_RFCOMM)
+    address = "B8:27:EB:8B:31:A9"
+    port = 1
+    server_socket.bind((address,port))
+    server_socket.listen(1)
+    print("On standby...")
+
+    client_socket,address = server_socket.accept()
+    print("Accepted connection from ", address)
+
+    #moteur
+
+    servo = AngularServo(moteur)
+
+    while True:
+
+        data = client_socket.recv(1024)
+
+        if data == b'0' and up == True:
+            print("Down")
+            servo.angle = -30
+            time.sleep(3)
+            up = False
+
+        elif data == b'1' and up == False:
+            print("Up")
+            servo.angle = 15
+            time.sleep(6)
+            up = True
+
+        elif data == b's':
+            print("Start")
+            servo.min()
+            time.sleep(5)
+
+        elif data == b'q':
+            print("Quit")
+            servo.max()
+            time.sleep(6)
+            servo.angle = 0
+            break
+
+        servo.angle = 0 
+
+
+    #onExit
+
+    client_socket.close()
+    server_socket.close()
+
+    from subprocess import call
+    call("shutdown -h now", shell=True)
 
 ## Les difficultés
 
