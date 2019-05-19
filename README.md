@@ -97,12 +97,14 @@ On a donc appris ou du moins essayer de programmer en Arduino, après plusieurs 
 Suite à plusieurs dizaines d'heures à essayer de faire fonctionner le Bluetooth sur la carte Arduino, même avec l'aide d'un professeur, la carte ne voulais rien savoir. Nous avons mis en place une application Android qui n'a pas abouti, car au début, on croyait que le fait que l'Arduino ne recevait pas les données venais de notre application, vous pouvez accéder au code [ici](https://github.com/DeadMeon/Lift-Up/blob/master/Test_Applcation_Android/main/java/com/example/devicelist/MainActivity.java).
 
 >Le Raspberry pi est un nano ordinateur de la taille d'une carte de crédit que l'on peut brancher à un écran et utilisé comme un ordinateur standard. Sa petite taille, et son prix intéressant fait du Raspberry pi un produit idéal pour tester différentes choses
+>>Découverte des cartes Arduino
 
 Une première version du code python vu le jour, la chaise se levais et redescendais tout été parfait ! Mais un jour plus rien n'était parfait nous avons donc décider de passer le projet que sur un unique Raspberry et nous avons fait nos adieux à l'Arduino qui nous a poser beaucoup de soucis, mais le Raspberry nous posa aussi beaucoup de soucis, du moins une libraire python nous causa beaucoup de soucis,
 
 `import RPi.GPIO as GPIO`
 
 >Un connecteur GPIO offre à une carte électronique la possibilité de communiquer avec d'autres circuits électroniques. Le GPIO est très présent dans les domaine de l'informatique, principalement embarquée, l'électronique, l'automatisme, la commande numérique, ou la robotique.
+>>General Purpose Input/Output
 
 Nous avons donc décider d'abandonner le Bluetooth via l'Arduino pour nous consacrer sur le Raspberry, nous avons donc commencer de la programmation python, nous sommes déjà un plus apte à être sur ce langage ayant appris les bases lors de notre année au début le Raspberry servais juste de relais pour envoyer des donner a l'Arduino, voici le code de [l'Arduino](https://github.com/DeadMeon/Lift-Up/blob/master/1erCodeArduino.ino).
 
@@ -111,6 +113,7 @@ Cette librairie nous a causé beaucoup de problème, nous ne comprenions pas la 
 `from gpiozero import AngularServo`
 
 >Extends Servo and represents a rotational PWM-controlled servo motor which can be set to particular angles (assuming valid minimum and maximum angles are provided to the constructor). Connect a power source (e.g. a battery pack or the 5V pin) to the power cable of the servo (this is typically colored red); connect the ground cable of the servo (typically colored black or brown) to the negative of your battery pack, or a GND pin; connect the final cable (typically colored white or orange) to the GPIO pin you wish to use for controlling the servo.
+>>14. API - Output Devices
 
 gpiozero et donc la librairie que nous avons utiliser, mais nous avons surtout utilisé AngularServo, avec cette nouvelle librairie nous avons réussie à faire un prototype fonctionnel de notre chaise, vous pouvez voir le code python [ici](https://github.com/DeadMeon/Lift-Up/blob/master/bluetoothGPIO.py). Le fait de passer le projet que sur un Raspberry a un énorme avantage, on se limite qu'a un langage de programmation, l'alimentation est très simple, car juste une batterie externe suffit pour que le tout fonctionne, et surtout ça prend moins de place et donc beaucoup plus simple a cacher
 
