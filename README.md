@@ -1,6 +1,6 @@
 # Projet - Lift up
 
-_Lift-Up has been created and designed for people who can't stand up by them selves as persons with mild motor disabilities. With his simplistic design, he can be place everywhere without attracting attention. It is commanded with Bluetooth, allowing an easier control. Warning, Lift-Up is not made for (general) public with average motor impairment or more.
+_Lift-Up has been created and designed for people who can't stand up by themselves as persons with mild motor disabilities. With his simplistic design, he can be placed everywhere without attracting attention. It is commanded with Bluetooth, allowing an easier control. Warning, Lift-Up is not made for (general) public with average motor impairment or more.
 All the system is run by a Raspberry Pi 3._
 
 [Presentations slide](https://docs.google.com/presentation/d/1F90I4jqLM0xJeXBUU_vE5x2pX4bnX4WyPgPFGB-84LE/edit?usp=sharing)
