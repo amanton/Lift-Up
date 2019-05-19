@@ -358,7 +358,7 @@ Suite à plusieurs dizaines d'heures à essayer de faire fonctionner le Bluetoot
 
 Nous avons donc décider d'abandonner le Bluetooth via l'Arduino pour nous consacrer sur le Raspberry, nous avons donc commencer de la programmation python, nous sommes déjà un plus apte à être sur ce langage ayant appris les bases lors de notre année au début le Raspberry servais juste de relais pour envoyer des donner a l'Arduino.
 
-    #include <Servo.h>
+    `#include <Servo.h>
 
     boolean direction = 0;
 
@@ -383,13 +383,13 @@ Nous avons donc décider d'abandonner le Bluetooth via l'Arduino pour nous consa
       }
       delay(5*1000);
 
-    }
+    }`
 
 Pendant le développement du programme en python pour la chaise, nous avons reçu la chaise et nous avons commencer les modifications dessus, pour la rendre "compatible" avec notre système, nous avons troué certain partie, retirer quelques parties aussi, mais nous avons surtout poncer beaucoup de partie que se soit de la chaise ou des pièces imprimé en 3d, rien de très compliquer, ça prend juste un peu de temps et de patience, la chaise avancer donc très bien pendant le temps du développement.
 
 Une première version du code python vu le jour, la chaise se levais et redescendais tout été parfait ! Mais un jour plus rien n'était parfait nous avons donc décider de passer le projet que sur un unique Raspberry et nous avons fait nos adieux à l'Arduino qui nous a poser beaucoup de soucis, mais le Raspberry nous posa aussi beaucoup de soucis, du moins une libraire python nous causa beaucoup de soucis, Même en regardant des tutoriel, des vidéo, la documentation la première libraire que nous avions utilisé été incompréhensible, le moteur ne réagissais pas logiquement. Suite a ça nous avons trouver une nouvelle librairie qui réagissait correctement avec le moteur que nous avions et la chaise été donc enfin fonctionnelle et le fait de passer que par le Raspberry nous fait donc avoir une chaise totalement libre niveau énergie, une simple batterie externe de téléphone suffit pour que la chaise fonctionne.
 
-    #!/usr/bin/env /usr/bin/python
+    `#!/usr/bin/env /usr/bin/python
     from gpiozero import AngularServo
     import time
     import socket
@@ -452,7 +452,7 @@ Une première version du code python vu le jour, la chaise se levais et redescen
     server_socket.close()
 
     from subprocess import call
-    call("shutdown -h now", shell=True)
+    call("shutdown -h now", shell=True)`
 
 ## Les difficultés
 
