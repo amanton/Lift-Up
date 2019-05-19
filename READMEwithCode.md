@@ -63,7 +63,7 @@ Lors de l'avancement une partie programmation étais présente. Nous avons dû p
 
 Suite à plusieurs dizaines d'heures à essayer de faire fonctionner le Bluetooth sur la carte Arduino, même avec l'aide d'un professeur, la carte ne voulais rien savoir. Nous avons mis en place une application Android qui n'a pas abouti, car au début, on croyait que le fait que l'Arduino ne recevait pas les données venais de notre application
 
-`    public class MainActivity extends AppCompatActivity {
+     public class MainActivity extends AppCompatActivity {
         private TextView mBluetoothStatus;
         private TextView mReadBuffer;
         private Button mScanBtn;
