@@ -54,8 +54,8 @@ Nous avons donc choisit de passer par la troisième méthode.
 
 ### Construction
 
-Pour commencer, il nous fallait fabriquer une chaise pour le prototype, mais nous n'avions pas assez de temps. Nous avons donc plutôt opté pour une [chaise en kit](https://www.ikea.com/fr/fr/p/kritter-chaise-enfant-rouge-80153697/) de chez IKEA.
-Nous avons donc modifier la chaise de manière a retirer les vises qui maintenait l'assise. Et nous les avons remplacé par des charnières qui permettent à la chaise de se lever tout en restant fixer au squelette de la chaise. 
+Notre première question pour la construction du projet était de savoir si on allait construire la chaise entièrement ou si nous prenions un kit d'une chaise chez un fabricant. Comme le temps nous manquer un peu, nous avons opté pour choisir une petite [chaise](https://www.ikea.com/fr/fr/p/kritter-chaise-enfant-rouge-80153697/)
+ chez le leader IKEA, ceci fait nous a beaucoup facilité la tache, car il nous rester qu'a ajuster la chaise pour qu'elle soit fonctionnelle avec notre projet.
 
 
 Une chaise est complexe à créer, plusieurs critères liés à la conception pour le confort sont très précis : 
