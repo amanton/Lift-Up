@@ -90,6 +90,7 @@ Quand nous avons reçu la chaise, nous avons commencer les modifications dessus,
 Lors de l'avancement une partie programmation étais présente. Nous avons dû programmer de l'Arduino (qui est proche du C et du C++), comme nous ne sommes pas expert en Arduino, nous avons commencé à regarder les librairies disponibles pour le fonctionnement d'un servomoteur, et surtout du Bluetooth.
 
 >Une carte Arduino est une petite carte électronique équipée d'un micro-contrôleur. Le micro-contrôleur permet, à partir d'événements détectés par des capteurs, de programmer et commander des actionneurs ; la carte Arduino est donc une interface programmable. La carte Arduino la plus utilisée est la carte Arduino Uno.
+>>Découverte des cartes Arduino
 
 On a donc appris ou du moins essayer de programmer en Arduino, après plusieurs séances a tester les fonctionnalités que nous offre les librairies, on a commencé à s'intéresser au fonctionnement des Connecteurs pour gérer les entrées et les sorties numériques. Les signaux transmirent par ces connecteurs sont des signaux logiques, c'est-à-dire qu'ils ne peuvent prendre que deux états : HAUT (5 Volts) ou BAS (0 Volt), par rapport au connecteur de masse GND, qui lui est toujours, par définition, à 0 Volt. Il existe aussi des entrées analogique qui peuvent aussi prendre que 2 état , mais peuvent admettre 1024 valeurs comprises entre 0 et 5 Volts, ces entrées servent à faire varier la luminosité d'une del par exemple.
 
@@ -97,7 +98,7 @@ On a donc appris ou du moins essayer de programmer en Arduino, après plusieurs 
 Suite à plusieurs dizaines d'heures à essayer de faire fonctionner le Bluetooth sur la carte Arduino, même avec l'aide d'un professeur, la carte ne voulais rien savoir. Nous avons mis en place une application Android qui n'a pas abouti, car au début, on croyait que le fait que l'Arduino ne recevait pas les données venais de notre application, vous pouvez accéder au code [ici](https://github.com/DeadMeon/Lift-Up/blob/master/Test_Applcation_Android/main/java/com/example/devicelist/MainActivity.java).
 
 >Le Raspberry pi est un nano ordinateur de la taille d'une carte de crédit que l'on peut brancher à un écran et utilisé comme un ordinateur standard. Sa petite taille, et son prix intéressant fait du Raspberry pi un produit idéal pour tester différentes choses
->>Découverte des cartes Arduino
+>>Qu'est ce qu'un Raspberry Pi ?
 
 Une première version du code python vu le jour, la chaise se levais et redescendais tout été parfait ! Mais un jour plus rien n'était parfait nous avons donc décider de passer le projet que sur un unique Raspberry et nous avons fait nos adieux à l'Arduino qui nous a poser beaucoup de soucis, mais le Raspberry nous posa aussi beaucoup de soucis, du moins une libraire python nous causa beaucoup de soucis,
 
