@@ -8,20 +8,20 @@
 ## Présentation
 
 
-__Lift up__ a été imaginée et conçue pour les personnes avec _un léger handicap moteur_. Beaucoup de personne ne peuvent pas ou ont du mal à se relever lorsque qu'ils sont assis sur une chaise, et donc pour ces personnes là, on a voulu créer un prototype de chaise autonome et a l'aspect d'une chaise ordinaire __qui pourrait donc être placé dans les restaurants__ pour que ces personnes puissent manger au restaurant __sans aide pour se relever__.
+__Lift up__ a été imaginée et conçue pour les personnes avec _un léger handicap moteur_. Beaucoup de personnes ne peuvent pas ou ont du mal à se relever lorsque qu'ils sont assises sur une chaise, et donc pour ces personnes là, on a voulu créer un prototype de chaise autonome et à l'aspect d'une chaise ordinaire __qui pourrait donc être placée dans les restaurants__ pour que ces personnes puissent manger au restaurant __sans aide pour se relever__.
 
-Pourquoi somme nous aller vers ce projet ? 
+Pourquoi sommes-nous aller vers ce projet ? 
 
->je connais plusieurs personnes qui souffre au niveau des jambes, et ce qui m'a le plus marqué c'est mon grand-père qui aime beaucoup sortir aux restaurents mais depuis quelques années il ne veut plus y aller car il se __sent gênez de demander de l'aide pour le relever d'une chaise__, comme il existe déjà des siège et fauteuils qui aide à se relever, pourquoi des chaises fine ne peuvent pas le faire aussi ? 
+>je connais plusieurs personnes qui souffrent au niveau des jambes, et ce qui m'a le plus marqué c'est mon grand-père qui aime beaucoup sortir aux restaurants mais depuis quelques années il ne veut plus y aller car il se __sent gêné de demander de l'aide pour le relever d'une chaise__, comme il existe déjà des sièges et fauteuils qui aident à se relever, pourquoi des chaises fines ne peuvent pas le faire aussi ? 
 >>Richard
 
-En partant de cette question, le projet est né et les schémas ont commencé à être imaginé.
+En partant de cette question, le projet est né et les schémas ont commencé à être imaginés.
 
 
 ## Choix du Projet
 
 
-Il y avait plusieurs styles de chaise possible, la première aurais étais de faire __une chaise totalement automatisée avec des rails__ pour que les personnes n'aient pas grand chose à faire et surtout qu'il n'est pas à forcer, sauf que ce type avait des défauts, elle aurait étais __très peu maniable__ pour les restaurateurs et les rails aurais pu fait tomber une personne. Donc personnes ne l'auraient acheté.
+Il y avait plusieurs styles de chaise possible, la première aurait été de faire __une chaise totalement automatisée avec des rails__ pour qu'elles n'aient pas à forcer, sauf que ce type avait des défauts, elle aurait été __très peu maniable__ pour les restaurateurs et les rails auraient pu fait tomber une personne. Donc personnes ne l'auraient acheté.
 
 Un version similaire a vu le jour dans nos tête juste après, __remplacer les rails par des roues__, sauf que comme l'exemple du grand-père de richard, il a honte qu'on le voit avoir besoin d'aide, donc voir des roue sous une chaise serais la preuve qu'il a besoin d'aide. Mais aussi des problèmes techniques, car il faudrait gérer les roues pour éviter que la chaise glisse ou se retourne due à un centre de gravité mal gérée. Et si les roues étaient motorisées, il faudrait vérifier s'il y a un obstacle derrière la chaise et si oui, ne pas reculer. On est donc partie sur le troisième modèle qui est qu'on __garde l'architecture basique d'une chaise__, on rajoute un moteur ou des piston en dessous les plus discrets possibles, la personne devras certes faire un peu plus d'effort que les 2 autres chaises citez au-dessus, mais __la chaise sera pratiquement la même que les autres dans le restaurant__, et c'est vraiment le __but du projet__.
 
