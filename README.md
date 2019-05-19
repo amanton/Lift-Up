@@ -9,13 +9,13 @@ All the system is run by a Raspberry Pi 3._
 ## Présentation
 
 
-__Lift up__ a été imaginée et conçue pour les personnes avec _un léger handicap moteur_. Beaucoup de personnes ne peuvent pas ou ont du mal à se relever lorsque qu'ils sont assises sur une chaise, et donc pour ces personnes là, on a voulu créer un prototype de chaise autonome et à l'aspect d'une chaise ordinaire __qui pourrait donc être placée dans les restaurants__ pour que ces personnes puissent manger au restaurant __sans aide pour se relever__.
+__Lift up__ a été imaginée et conçue pour les personnes avec _un léger handicap moteur_. Beaucoup de personnes ne peuvent pas ou ont du mal à se relever lorsqu'elles sont assises sur une chaise, et donc pour ces personnes là, on a voulu créer un prototype de chaise autonome et ayantl'aspect d'une chaise ordinaire __qui pourrait donc être placée dans les restaurants__ pour que ces personnes puissent manger au restaurant __sans aide pour se relever__.
 
 Le projet ne peut malheureusement pas être adapté pour les personnes ayant un gros handicap moteur.
 
-Pourquoi sommes-nous aller vers ce projet ? 
+Pourquoi sommes-nous allés vers ce projet ? 
 
->je connais plusieurs personnes qui souffrent au niveau des jambes, et ce qui m'a le plus marqué c'est mon grand-père qui aime beaucoup sortir aux restaurants mais depuis quelques années il ne veut plus y aller car il se __sent gêné de demander de l'aide pour le relever d'une chaise__, comme il existe déjà des sièges et fauteuils qui aident à se relever, pourquoi des chaises fines ne peuvent pas le faire aussi ? 
+>je connais plusieurs personnes qui souffrent au niveau des jambes, et ce qui m'a le plus marqué c'est mon grand-père qui aime beaucoup aller au restaurant, mais depuis quelques années il ne veut plus y aller car il se __sent gêné pour demander de l'aide pour le relever d'une chaise__, comme il existe déjà des sièges et fauteuils qui aident à se relever, pourquoi des chaises fines ne peuvent pas le faire aussi ? 
 >>Richard
 
 En partant de cette question, le projet est né et les schémas ont commencé à être imaginés.
@@ -141,9 +141,9 @@ Comme prévu n'étant pas des ingénieurs, nous n'avions pas toutes les compéte
 
 ## En Conclusion
 
-Pour conclure, nous sommes fiers de présenter ce projet, c'est un projet qui nous tient a Coeur, essayer de donner une autonomie aux personnes qui la perde suite aux faiblesses de leur corps. C'est un monde qui n'est pas exploiter par les sociétés et nous ne comprenons pas, c'est certes peut être très complexe si on veut associer la puissance des moteur avec l'esthétique d'une chaise et le confort aussi, car il est vrai que nous n'avons pas du tout prêter attention au confort, car nous avions qu'une chaise en bois pour enfant on pouvais pas trop comparé, ce projet prouve que ce n'est pas impossible comme idée et que de nombreuses sociétés pourrais démocratiser ce domaine pour le bien des personnes dans le besoin. 
+Pour conclure, nous sommes fiers de présenter ce projet, c'est un projet qui nous tient a Coeur, essayer de donner une autonomie aux personnes qui la perde suite aux faiblesses de leur corps. C'est un monde qui n'est pas exploité par les sociétés et nous ne comprenons pas, c'est certes peut être très complexe si on veut associer la puissance des moteurs avec l'esthétique d'une chaise et le confort aussi, car il est vrai que nous n'avons pas du tout prêter attention au confort. Nous n'avions qu'une chaise en bois pour enfant, nous ne pouvions pas trop comparer, ce projet prouve que ce n'est pas impossible comme idée et que de nombreuses sociétés pourraient démocratiser ce domaine pour le bien des personnes dans le besoin. 
 
-Les sociétés trouvent que ce marché et de niche ainsi, ils ne chercheront jamais à cibler cette problématique qui ne le rapportera pas assez d'argent, donc les recherches sur ce sujet ne sont pas en évolution, et même si une marque décide d'en sortir une, il y a forte a pariez que le produit soit trop chère pour les personnes dans le besoin vu le manque de concurrence. 
+Les sociétés trouvent que ce marché est de niche ainsi, ils ne chercheront jamais à cibler cette problématique qui ne leur rapportera pas assez d'argent. Donc les recherches sur ce sujet ne sont pas en évolution, et même si une marque décide d'en sortir une, il y a fort à parier que le produit soit trop cher pour les personnes dans le besoin, vu le manque de concurrence. 
 
 Le projet ne peut malheureusement pas être adapté pour les personnes ayant un gros handicap moteur, car la chaise aide juste la personne à se relever, donc il faut que la personne ait un minimum de force dans les jambes.
 
