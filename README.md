@@ -57,6 +57,16 @@ Nous avons donc choisit de passer par la troisième méthode.
 Pour commencer, il nous fallait fabriquer une chaise pour le prototype, mais nous n'avions pas assez de temps. Nous avons donc plutôt opté pour une [chaise en kit](https://www.ikea.com/fr/fr/p/kritter-chaise-enfant-rouge-80153697/) de chez IKEA.
 Nous avons donc modifier la chaise de manière a retirer les vises qui maintenait l'assise. Et nous les avons remplacé par des charnières qui permettent à la chaise de se lever tout en restant fixer au squelette de la chaise. 
 
+
+Une chaise est complexe à créer, plusieurs critères liés à la conception pour le confort sont très précis : 
+1.  __La hauteur d'assise__
+	>C'est la mesure qui sépare le sol de la surface sur laquelle nous sommes assis. Elle correspond à la longueur moyenne de l'arrière d'une jambe, depuis le pli du genou jusqu'au talon, chaussure comprise. Pour les chaises devant servir à prendre des repas autour d'une table ou à travailler à un bureau, elle est de nos jours de 450 mm. Il est éventuellement possible de porter cette mesure à 460, voire 470 mm et rien n'interdit de la baisser jusqu'à 440 mm.
+2. __Les dimensions de l'assise__
+	>Une assise profonde et large offre un plus grand confort qu'une même assise aux dimensions réduites. Il est cependant inutile d'en exagérer les mesures, car l'encombrement de la chaise deviendra une gêne plus qu'un élément de confort. Sa largeur peut ainsi varier de 400 à 480 mm et sa profondeur de 360 à 410 mm. Des mesures inférieures vont au détriment du confort.
+3. __La nature de l'assise__
+	>Nous avons tous ressenti un jour la sensation désagréable d'être assis sur une chaise trop dure, mal paillée ou mal rembourrée. Il est alors impossible de rester immobile et de se détendre. C'est donc un point qu'il faut aborder avec attention. Une assise peut être en bois nu et offrir une assise confortable à condition de lui donner une forme en creux bien particulière. Celle en bois massif d'une chaise de style Windsor en est un exemple.
+
+
 ![](https://zupimages.net/up/19/20/uzdp.jpg)
 
 Comme c'est un prototype, il se doit d'être peu coûteux. Donc nous avons choisi de fabriquer la crémaillère en plastique imprimer avec une imprimante 3D. L'engrenage a aussi été imprimé en 3D pour qu'il s'emboîte parfaitement. Anis qu'un bloc pour les contenir et qu'il reste assembler.Les pièces étant uniques nous avons due les modéliser en 3D, c'est Aziz qui la fait. Vous pouvez voir [ici](https://www.tinkercad.com/things/dY0HXlwu65n) les pièces modélisées pour le premier test et [ici](https://www.tinkercad.com/things/2Bs0kqwbqwV) les pièces utiliser pour le montage final. Seules ces dernières on été imprimer.
